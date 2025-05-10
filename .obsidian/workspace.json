@@ -11,10 +11,14 @@
             "id": "e7808006a81e5333",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/n.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "n"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leetcode/n.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for n"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leetcode/n.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from n"
             }
           },
           {
@@ -136,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden Backup/Welcome.md",
+                "file": "Leetcode/n.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of n"
             }
           }
         ]
@@ -164,7 +170,11 @@
   },
   "active": "01c9e73fab2e7ee2",
   "lastOpenFiles": [
-    "Garden Backup/Leetcode",
-    "Garden Backup/Neetcode"
+    "Engineering/Notes.md",
+    "Leetcode/n.md",
+    "Garden Backup/Welcome.md",
+    "Engineering",
+    "Leetcode",
+    "Neetcode"
   ]
 }
